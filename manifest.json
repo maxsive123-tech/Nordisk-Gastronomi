@@ -1,0 +1,15 @@
+{
+  "type": "talizen_static_html_export",
+  "version": "1.0",
+  "site_id": "pu13c9x94n0i",
+  "source_version": "realtime",
+  "created_at": "2026-05-07T11:34:42.078332233Z",
+  "routes": [
+    {
+      "path": "/",
+      "file": "index.html",
+      "status": 200
+    }
+  ],
+  "warnings": 0
+}
